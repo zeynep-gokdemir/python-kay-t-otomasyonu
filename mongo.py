@@ -1,3 +1,6 @@
+
+                                                          #çalışan kayıt otomasyonu
+
 import pymongo
 from pymongo import MongoClient
 import pyinputplus as pyip
